@@ -5,5 +5,7 @@ public class newOne {
         System.out.println("This is a java program");
         System.out.println("output from the java program");
         System.out.println(new Date());
+
+        System.out.println("hlw git im devraj");
     }
 }
