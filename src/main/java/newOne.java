@@ -1,0 +1,9 @@
+import java.util.Date;
+
+public class newOne {
+    public static void main(String[] args) {
+        System.out.println("This is a java program");
+        System.out.println("output from the java program");
+        System.out.println(new Date());
+    }
+}
