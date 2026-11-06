@@ -8,5 +8,7 @@ public class newOne {
 
         System.out.println("hlw git im devraj");
         System.out.println("extra file im added");
+        Student student = new Student();
+        student.sayHello();
     }
 }
