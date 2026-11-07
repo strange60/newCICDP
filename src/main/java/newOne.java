@@ -11,5 +11,6 @@ public class newOne {
         Student student = new Student();
         student.sayHello();
         System.out.println("last one changed chek it");
+        System.out.println("nothing to build it");
     }
 }
